@@ -1,4 +1,4 @@
-import{S as n}from"./index.ea6bd2de.js";import{a as F,F as o,j as B}from"./index.aea89828.js";import{i}from"./img.18c9eb25.js";const d="/LinUI-page/assets/img2.c2802dee.jpg",l=()=>F(o,{children:[B("div",{className:"compontent_title",id:"basic_button",children:"\u56FE\u65871"}),F("div",{className:"component_box",children:[B("div",{className:"compontent_box_content1",children:F("div",{className:"component_content_content1",children:[B("img",{src:d,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),F("div",{className:"text",children:[B("h2",{style:{color:"rgb(73,80,87)"},children:"\u5185\u5BB9"}),B("p",{style:{color:"rgb(73,80,87)"},children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})]})}),B(n,{code:{element:()=>F("div",{className:"component_content_content1",children:[B("img",{src:d,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),F("div",{className:"text",children:[B("h2",{children:"\u5185\u5BB9"}),B("p",{children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})]}),HTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
+import{S as n}from"./index.9ad799cf.js";import{a as F,F as o,j as B}from"./index.6681f376.js";import{i}from"./img.18c9eb25.js";const d="/LinUI-page/assets/img2.c2802dee.jpg",l=()=>F(o,{children:[B("div",{className:"compontent_title",id:"basic_button",children:"\u56FE\u65871"}),F("div",{className:"component_box",children:[B("div",{className:"compontent_box_content1",children:F("div",{className:"component_content_content1",children:[B("img",{src:d,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),F("div",{className:"text",children:[B("h2",{style:{color:"rgb(73,80,87)"},children:"\u5185\u5BB9"}),B("p",{style:{color:"rgb(73,80,87)"},children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})]})}),B(n,{code:{element:()=>F("div",{className:"component_content_content1",children:[B("img",{src:d,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),F("div",{className:"text",children:[B("h2",{children:"\u5185\u5BB9"}),B("p",{children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})]}),HTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
   <img src="" alt="\u8BF7\u6DFB\u52A0\u56FE\u7247" />
   <div class="text">
     <h2>\u5185\u5BB9</h2>
@@ -6,34 +6,34 @@ import{S as n}from"./index.ea6bd2de.js";import{a as F,F as o,j as B}from"./index
     \u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002
     </p>
   </div>
-</div>`,CSSCode:(u,t,e,r)=>`div${u} {
+</div>`,CSSCode:(u,e,t,r)=>`${u===""?"div":u} {
   overflow: hidden;
   margin: 20px 0;
   padding: 0 30px;
 }
 
-div${u} img {
+${u===""?"div":u} img {
   width: 40%;
   float: left;
 }
 
-div${u} .text {
+${u===""?"div":u} .text {
   /* \u8FD9\u4E2A60px\u4E3Apadding\u7B2C\u4E8C\u4E2A\u503C\u7684\u53CC\u500D */
   padding-left: 30px;
   width: calc(60% - 30px);
   float: left;
 }
 
-div${u} h2 {
+${u===""?"div":u} h2 {
   margin-bottom: 10px;
-  color: ${e};
+  color: ${t};
 }
 
-div${u} p {
+${u===""?"div":u}p {
   text-indent: 2em;
   line-height: 28px;
   letter-spacing: 1px;
-  color: ${e};
+  color: ${t};
 }`,JSCode:()=>"\u6682\u65E0",VueHTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
   <img src="" alt="\u8BF7\u6DFB\u52A0\u56FE\u7247" />
   <div class="text">
@@ -51,7 +51,7 @@ div${u} p {
       </p>
     </div>
   </div>
-</div>`,ReactJSCode:()=>"\u6682\u65E0",TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>"\u6682\u65E0"}})]})]});const a=()=>F(o,{children:[B("div",{className:"compontent_title",id:"basic_button",children:"\u56FE\u65872"}),F("div",{className:"component_box",children:[B("div",{className:"compontent_box_content1",children:F("div",{className:"component_content_content2",children:[B("img",{src:i,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),B("div",{className:"text",style:{backgroundColor:"rgb(224,184,120)"},children:F("div",{className:"text_content",children:[B("h2",{style:{color:"rgb(248, 248, 248)"},children:"\u5185\u5BB9"}),B("p",{style:{color:"rgb(248, 248, 248)"},children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})})]})}),B(n,{code:{element:()=>F("div",{className:"component_content_content2",children:[B("img",{src:i,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),B("div",{className:"text",children:F("div",{className:"text_content",children:[B("h2",{children:"\u5185\u5BB9"}),B("p",{children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})})]}),HTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
+</div>`,ReactJSCode:()=>"\u6682\u65E0",TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>"\u6682\u65E0"}})]})]});const p=()=>F(o,{children:[B("div",{className:"compontent_title",id:"basic_button",children:"\u56FE\u65872"}),F("div",{className:"component_box",children:[B("div",{className:"compontent_box_content1",children:F("div",{className:"component_content_content2",children:[B("img",{src:i,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),B("div",{className:"text",style:{backgroundColor:"rgb(224,184,120)"},children:F("div",{className:"text_content",children:[B("h2",{style:{color:"rgb(248, 248, 248)"},children:"\u5185\u5BB9"}),B("p",{style:{color:"rgb(248, 248, 248)"},children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})})]})}),B(n,{code:{element:()=>F("div",{className:"component_content_content2",children:[B("img",{src:i,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),B("div",{className:"text",children:F("div",{className:"text_content",children:[B("h2",{children:"\u5185\u5BB9"}),B("p",{children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})})]}),HTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
   <img src="" alt="\u8BF7\u6DFB\u52A0\u56FE\u7247" />
   <div class="text">
     <div class="text_content">
@@ -61,17 +61,17 @@ div${u} p {
       </p>
     </div>
   </div>
-</div>`,CSSCode:(u,t,e,r)=>`div${u} {
+</div>`,CSSCode:(u,e,t,r)=>`${u===""?"div":u} {
   position: relative;
   margin: 20px 0;
   padding-left: 30px;
 }
 
-div${u} img {
+${u===""?"div":u} img {
   width: 70%;
 }
 
-div${u} .text {
+${u===""?"div":u} .text {
   position: absolute;
   right: 5%;
   top: 5%;
@@ -82,25 +82,25 @@ div${u} .text {
   align-items: center;
   flex-wrap: wrap;
   overflow: hidden; 
-  background-color: ${t};
+  background-color: ${e};
 }
 
-div${u} .text_content {
+${u===""?"div":u} .text_content {
   padding: 0 10%;
 }
 
-div${u} h2 {
+${u===""?"div":u} h2 {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
-  color: ${e};
+  color: ${t};
 }
 
-div${u} p {
+${u===""?"div":u} p {
   text-indent: 2em;
   line-height: 28px;
   letter-spacing: 0.3px;
-  color: ${e};
+  color: ${t};
 }`,JSCode:()=>"\u6682\u65E0",VueHTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
   <img src="" alt="\u8BF7\u6DFB\u52A0\u56FE\u7247" />
   <div class="text">
@@ -122,4 +122,4 @@ div${u} p {
       </div>
     </div>
   </div>
-</div>`,ReactJSCode:()=>"\u6682\u65E0",TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>"\u6682\u65E0"}})]})]}),h=()=>F("div",{children:[F("div",{className:"component_big_title",children:["\u5185\u5BB9 ",B("span",{children:"Content"})]}),B(l,{}),B(a,{})]});export{h as default};
+</div>`,ReactJSCode:()=>"\u6682\u65E0",TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>"\u6682\u65E0"}})]})]}),s=()=>F("div",{children:[F("div",{className:"component_big_title",children:["\u5185\u5BB9 ",B("span",{children:"Content"})]}),B(l,{}),B(p,{})]});export{s as default};
