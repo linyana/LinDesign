@@ -1,4 +1,4 @@
-import{S as n}from"./index.afc0b019.js";import{a as F,F as o,j as B}from"./index.c0b0a407.js";import{i}from"./img.18c9eb25.js";const d="/LinUI-page/assets/img2.c2802dee.jpg",l=()=>F(o,{children:[B("div",{className:"compontent_title",id:"basic_button",children:"\u56FE\u65871"}),F("div",{className:"component_box",children:[B("div",{className:"compontent_box_content1",children:F("div",{className:"component_content_content1",children:[B("img",{src:d,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),F("div",{className:"text",children:[B("h2",{style:{color:"rgb(73,80,87)"},children:"\u5185\u5BB9"}),B("p",{style:{color:"rgb(73,80,87)"},children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})]})}),B(n,{code:{element:()=>F("div",{className:"component_content_content1",children:[B("img",{src:d,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),F("div",{className:"text",children:[B("h2",{children:"\u5185\u5BB9"}),B("p",{children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})]}),HTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
+import{S as d}from"./index.0ef9bbc1.js";import{a as F,F as o,j as B}from"./index.acd5236e.js";import{i}from"./img.18c9eb25.js";const n="/LinUI-page/assets/img2.c2802dee.jpg",l=()=>F(o,{children:[B("div",{className:"compontent_title",id:"content-anchor1",children:"\u56FE\u65871"}),F("div",{className:"component_box",children:[B("div",{className:"compontent_box_content1",children:F("div",{className:"component_content_content1",children:[B("img",{src:n,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),F("div",{className:"text",children:[B("h2",{style:{color:"rgb(73,80,87)"},children:"\u5185\u5BB9"}),B("p",{style:{color:"rgb(73,80,87)"},children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})]})}),B(d,{code:{element:()=>F("div",{className:"component_content_content1",children:[B("img",{src:n,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),F("div",{className:"text",children:[B("h2",{children:"\u5185\u5BB9"}),B("p",{children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})]}),HTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
   <img src="" alt="\u8BF7\u6DFB\u52A0\u56FE\u7247" />
   <div class="text">
     <h2>\u5185\u5BB9</h2>
@@ -6,7 +6,7 @@ import{S as n}from"./index.afc0b019.js";import{a as F,F as o,j as B}from"./index
     \u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002
     </p>
   </div>
-</div>`,CSSCode:(u,e,t,r)=>`${u===""?"div":u} {
+</div>`,CSSCode:(u,t,e,r)=>`${u===""?"div":u} {
   overflow: hidden;
   margin: 20px 0;
   padding: 0 30px;
@@ -26,14 +26,14 @@ ${u===""?"div":u} .text {
 
 ${u===""?"div":u} h2 {
   margin-bottom: 10px;
-  color: ${t};
+  color: ${e};
 }
 
 ${u===""?"div":u}p {
   text-indent: 2em;
   line-height: 28px;
   letter-spacing: 1px;
-  color: ${t};
+  color: ${e};
 }`,JSCode:()=>"\u6682\u65E0",VueHTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
   <img src="" alt="\u8BF7\u6DFB\u52A0\u56FE\u7247" />
   <div class="text">
@@ -51,7 +51,7 @@ ${u===""?"div":u}p {
       </p>
     </div>
   </div>
-</div>`,ReactJSCode:()=>"\u6682\u65E0",TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>"\u6682\u65E0"}})]})]});const p=()=>F(o,{children:[B("div",{className:"compontent_title",id:"basic_button",children:"\u56FE\u65872"}),F("div",{className:"component_box",children:[B("div",{className:"compontent_box_content1",children:F("div",{className:"component_content_content2",children:[B("img",{src:i,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),B("div",{className:"text",style:{backgroundColor:"rgb(224,184,120)"},children:F("div",{className:"text_content",children:[B("h2",{style:{color:"rgb(248, 248, 248)"},children:"\u5185\u5BB9"}),B("p",{style:{color:"rgb(248, 248, 248)"},children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})})]})}),B(n,{code:{element:()=>F("div",{className:"component_content_content2",children:[B("img",{src:i,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),B("div",{className:"text",children:F("div",{className:"text_content",children:[B("h2",{children:"\u5185\u5BB9"}),B("p",{children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})})]}),HTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
+</div>`,ReactJSCode:()=>"\u6682\u65E0",TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>"\u6682\u65E0"}})]})]});const p=()=>F(o,{children:[B("div",{className:"compontent_title",id:"content-anchor2",children:"\u56FE\u65872"}),F("div",{className:"component_box",children:[B("div",{className:"compontent_box_content1",children:F("div",{className:"component_content_content2",children:[B("img",{src:i,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),B("div",{className:"text",style:{backgroundColor:"rgb(224,184,120)"},children:F("div",{className:"text_content",children:[B("h2",{style:{color:"rgb(248, 248, 248)"},children:"\u5185\u5BB9"}),B("p",{style:{color:"rgb(248, 248, 248)"},children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})})]})}),B(d,{code:{element:()=>F("div",{className:"component_content_content2",children:[B("img",{src:i,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),B("div",{className:"text",children:F("div",{className:"text_content",children:[B("h2",{children:"\u5185\u5BB9"}),B("p",{children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})})]}),HTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
   <img src="" alt="\u8BF7\u6DFB\u52A0\u56FE\u7247" />
   <div class="text">
     <div class="text_content">
@@ -61,7 +61,7 @@ ${u===""?"div":u}p {
       </p>
     </div>
   </div>
-</div>`,CSSCode:(u,e,t,r)=>`${u===""?"div":u} {
+</div>`,CSSCode:(u,t,e,r)=>`${u===""?"div":u} {
   position: relative;
   margin: 20px 0;
   padding-left: 30px;
@@ -82,7 +82,7 @@ ${u===""?"div":u} .text {
   align-items: center;
   flex-wrap: wrap;
   overflow: hidden; 
-  background-color: ${e};
+  background-color: ${t};
 }
 
 ${u===""?"div":u} .text_content {
@@ -93,14 +93,14 @@ ${u===""?"div":u} h2 {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
-  color: ${t};
+  color: ${e};
 }
 
 ${u===""?"div":u} p {
   text-indent: 2em;
   line-height: 28px;
   letter-spacing: 0.3px;
-  color: ${t};
+  color: ${e};
 }`,JSCode:()=>"\u6682\u65E0",VueHTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
   <img src="" alt="\u8BF7\u6DFB\u52A0\u56FE\u7247" />
   <div class="text">
