@@ -1,4 +1,4 @@
-import{S as n}from"./index.fcfdcf6e.js";import{a as e,F as v,j as B,r}from"./index.a691c657.js";import{i as s}from"./img.18c9eb25.js";const _="/LinUI-page/assets/img2.c2802dee.jpg",m=()=>e(v,{children:[B("div",{className:"compontent_title",id:"content-anchor1",children:"\u56FE\u65871"}),e("div",{className:"component_box",children:[B("div",{className:"compontent_box_content1",children:e("div",{className:"component_content_content1",children:[B("img",{src:_,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),e("div",{className:"text",children:[B("h2",{style:{color:"rgb(73,80,87)"},children:"\u5185\u5BB9"}),B("p",{style:{color:"rgb(73,80,87)"},children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})]})}),B(n,{code:{element:()=>e("div",{className:"component_content_content1",children:[B("img",{src:_,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),e("div",{className:"text",children:[B("h2",{children:"\u5185\u5BB9"}),B("p",{children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})]}),HTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
+import{S as n}from"./index.6264ac1d.js";import{a as e,F as v,j as B,r}from"./index.e7531106.js";import{i as s}from"./img.18c9eb25.js";const m="/LinUI-page/assets/img2.c2802dee.jpg",_=()=>e(v,{children:[B("div",{className:"compontent_title",id:"content-anchor1",children:"\u56FE\u65871"}),e("div",{className:"component_box",children:[B("div",{className:"compontent_box_content1",children:e("div",{className:"component_content_content1",children:[B("img",{src:m,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),e("div",{className:"text",children:[B("h2",{style:{color:"rgb(73,80,87)"},children:"\u5185\u5BB9"}),B("p",{style:{color:"rgb(73,80,87)"},children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})]})}),B(n,{code:{element:()=>e("div",{className:"component_content_content1",children:[B("img",{src:m,alt:"\u8BF7\u6DFB\u52A0\u56FE\u7247"}),e("div",{className:"text",children:[B("h2",{children:"\u5185\u5BB9"}),B("p",{children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u3002"})]})]}),HTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
   <img src="" alt="\u8BF7\u6DFB\u52A0\u56FE\u7247" />
   <div class="text">
     <h2>\u5185\u5BB9</h2>
@@ -122,7 +122,7 @@ ${u===""?"div":u} p {
       </div>
     </div>
   </div>
-</div>`,ReactJSCode:()=>"\u6682\u65E0",TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>"\u6682\u65E0"}})]})]});const p=()=>e(v,{children:[B("div",{className:"compontent_title",id:"basic_button",children:"\u9F20\u6807\u7ECF\u8FC7\u53D8\u5BBD"}),B("p",{className:"compontent_p",children:"\u4E3A\u4E86\u9AD8\u5EA6\u4E0D\u4F1A\u968F\u7740\u5BBD\u5EA6\u800C\u6539\u53D8\uFF0C\u8BF7\u6839\u636E\u9700\u8981\u8BBE\u7F6E\u9AD8\u5EA6\u4E3A\u786E\u5B9A\u7684\u503C,\u672C\u7EC4\u4EF6\u4E0D\u652F\u6301\u81EA\u5B9A\u4E49\u989C\u8272\u3002"}),e("div",{className:"component_box",children:[B("div",{className:"compontent_box_content",children:e("div",{className:"content_component3_content",style:{width:700},children:[e("div",{className:"move_card move_card1",children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card2",children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card3",children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]})]})}),B(n,{code:{element:()=>e("div",{className:"card_component3_content",style:{width:700},children:[e("div",{className:"move_card move_card1",children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card2",children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card3",children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]})]}),HTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
+</div>`,ReactJSCode:()=>"\u6682\u65E0",TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>"\u6682\u65E0"}})]})]});const p=()=>e(v,{children:[B("div",{className:"compontent_title",id:"content-anchor3",children:"\u9F20\u6807\u7ECF\u8FC7\u53D8\u5BBD"}),B("p",{className:"compontent_p",children:"\u4E3A\u4E86\u9AD8\u5EA6\u4E0D\u4F1A\u968F\u7740\u5BBD\u5EA6\u800C\u6539\u53D8\uFF0C\u8BF7\u6839\u636E\u9700\u8981\u8BBE\u7F6E\u9AD8\u5EA6\u4E3A\u786E\u5B9A\u7684\u503C,\u672C\u7EC4\u4EF6\u4E0D\u652F\u6301\u81EA\u5B9A\u4E49\u989C\u8272\u3002"}),e("div",{className:"component_box",children:[B("div",{className:"compontent_box_content",children:e("div",{className:"content_component3_content",style:{width:700},children:[e("div",{className:"move_card move_card1",children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card2",children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card3",children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]})]})}),B(n,{code:{element:()=>e("div",{className:"card_component3_content",style:{width:700},children:[e("div",{className:"move_card move_card1",children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card2",children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card3",children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]})]}),HTMLCode:u=>`<div${u.trim()?` class="${u.replace(".","")}"`:""}>
 	<div class="move_card move_card1">
 		<div class="move_card_title">\u6807\u9898</div>
 		<div class="move_card_text">
@@ -221,7 +221,7 @@ ${u===""?"div":u} .move_card .move_card_text {
 			\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9
 		</div>
 	</div>
-</div>`,ReactJSCode:()=>"\u6682\u65E0",TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>"\u6682\u65E0"}})]})]});const x=()=>{const c={element:()=>B(C,{}),HTMLCode:F=>`<div${F.trim()?` class="${F.replace(".","")}"`:""}>
+</div>`,ReactJSCode:()=>"\u6682\u65E0",TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>"\u6682\u65E0"}})]})]});const x=()=>{const o={element:()=>B(C,{}),HTMLCode:F=>`<div${F.trim()?` class="${F.replace(".","")}"`:""}>
 	<div class="move_card move_card1">
 		<div class="move_card_title">\u6807\u9898</div>
 		<div class="move_card_text">
@@ -240,7 +240,7 @@ ${u===""?"div":u} .move_card .move_card_text {
 			\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9
 		</div>
 	</div>
-</div>`,CSSCode:(F,E,$,g)=>`${F===""?"div":F} {
+</div>`,CSSCode:(F,E,w,$)=>`${F===""?"div":F} {
   display: flex;
   justify-content: space-around;
 }
@@ -278,25 +278,52 @@ ${F===""?"div":F} .move_card .move_card_title {
 ${F===""?"div":F} .move_card .move_card_text {
   width: 100%
 }`,JSCode:()=>"\u6682\u65E0",VueHTMLCode:F=>`<div${F.trim()?` class="${F.replace(".","")}"`:""}>
-	<div class="move_card move_card1">
-		<div class="move_card_title">\u6807\u9898</div>
-		<div class="move_card_text">
+	<div
+		className="move_card move_card1"
+		:style="{ width: width1 ? '36%' : '22%' }"
+		@mouseenter="restore(1)"
+	>
+		<div className="move_card_title">\u6807\u9898</div>
+		<div className="move_card_text">
 			\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9
 		</div>
 	</div>
-	<div class="move_card move_card2">
-		<div class="move_card_title">\u6807\u9898</div>
-		<div class="move_card_text">
+	<div
+		className="move_card move_card2"
+		:style="{ width: width2 ? '36%' : '22%' }"
+		@mouseenter="restore(2)"
+	>
+		<div className="move_card_title">\u6807\u9898</div>
+		<div className="move_card_text">
 			\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9
 		</div>
 	</div>
-	<div class="move_card move_card3">
-		<div class="move_card_title">\u6807\u9898</div>
-		<div class="move_card_text">
+	<div
+		className="move_card move_card3"
+		:style="{ width: width3 ? '36%' : '22%' }"
+		@mouseenter="restore(3)"
+	>
+		<div className="move_card_title">\u6807\u9898</div>
+		<div className="move_card_text">
 			\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9
 		</div>
 	</div>
-</div>`,VueJSCode:()=>"\u6682\u65E0",ReactHTMLCode:F=>`<div${F.trim()?` className="${F.replace(".","")}"`:""}>
+</div>`,VueJSCode:()=>`
+import { ref } from "vue";
+
+const width1 = ref(true);
+const width2 = ref(false);
+const width3 = ref(false);
+const restore = (index: number) => {
+	width1.value = false;
+	width2.value = false;
+	width3.value = false;
+	index === 1
+		? (width1.value = true)
+		: index === 2
+		? (width2.value = true)
+		: (width3.value = true);
+};`,ReactHTMLCode:F=>`<div${F.trim()?` className="${F.replace(".","")}"`:""}>
 	<div
 		className="move_card move_card1"
 		style={{ width: width1 ? "36%" : "22%" }}
@@ -348,7 +375,23 @@ const restore = () => {
 	setWidth2(false);
 	setWidth3(false);
 };		
-		`,TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>`
+		`,TSCode:()=>"\u6682\u65E0",VueTSCode:()=>`
+import { ref } from "vue";
+
+const width1 = ref<boolean>(true);
+const width2 = ref<boolean>(false);
+const width3 = ref<boolean>(false);
+const restore = (index: number): void => {
+	width1.value = false;
+	width2.value = false;
+	width3.value = false;
+	index === 1
+		? (width1.value = true)
+		: index === 2
+		? (width2.value = true)
+		: (width3.value = true);
+};
+		`,ReactTSCode:()=>`
 import { useState } from 'react'
 
 const [width1, setWidth1] = useState<boolean>(true);
@@ -359,4 +402,4 @@ const restore = (): void => {
 	setWidth1(false);
 	setWidth2(false);
 	setWidth3(false);
-};`},[u,t]=r.exports.useState(!0),[d,i]=r.exports.useState(!1),[a,o]=r.exports.useState(!1),l=()=>{t(!1),i(!1),o(!1)};return e(v,{children:[B("div",{className:"compontent_title",id:"basic_button",children:"\u9F20\u6807\u7ECF\u8FC7\u53D8\u5BBD2"}),B("p",{className:"compontent_p",children:"\u8DDF\u4E0A\u4E00\u4E2A\u7EC4\u4EF6\u76F8\u6BD4\uFF0C\u589E\u52A0\u4E86\u9ED8\u8BA4\u6253\u5F00\u7684\u72B6\u6001\u3002"}),e("div",{className:"component_box",children:[B("div",{className:"compontent_box_content",children:e("div",{className:"content_component4_content",style:{width:700},children:[e("div",{className:"move_card move_card1",style:{width:u?"36%":"22%"},onMouseEnter:()=>{l(),t(!0)},children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card2",style:{width:d?"36%":"22%"},onMouseEnter:()=>{l(),i(!0)},children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card3",style:{width:a?"36%":"22%"},onMouseEnter:()=>{l(),o(!0)},children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]})]})}),B(n,{code:c})]})]})},C=()=>{const[c,u]=r.exports.useState(!0),[t,d]=r.exports.useState(!1),[i,a]=r.exports.useState(!1),o=()=>{u(!1),d(!1),a(!1)};return B(v,{children:e("div",{className:"content_component4_content",children:[e("div",{className:"move_card move_card1",style:{width:c?"36%":"22%"},onMouseEnter:()=>{o(),u(!0)},children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card2",style:{width:t?"36%":"22%"},onMouseEnter:()=>{o(),d(!0)},children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card3",style:{width:i?"36%":"22%"},onMouseEnter:()=>{o(),a(!0)},children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]})]})})},b=()=>e("div",{children:[e("div",{className:"component_big_title",children:["\u5185\u5BB9 ",B("span",{children:"Content"})]}),B(m,{}),B(h,{}),B(p,{}),B(x,{})]});export{b as default};
+};`},[u,t]=r.exports.useState(!0),[d,i]=r.exports.useState(!1),[a,c]=r.exports.useState(!1),l=()=>{t(!1),i(!1),c(!1)};return e(v,{children:[B("div",{className:"compontent_title",id:"content-anchor4",children:"\u9F20\u6807\u7ECF\u8FC7\u53D8\u5BBD2"}),B("p",{className:"compontent_p",children:"\u8DDF\u4E0A\u4E00\u4E2A\u7EC4\u4EF6\u76F8\u6BD4\uFF0C\u589E\u52A0\u4E86\u9ED8\u8BA4\u6253\u5F00\u7684\u72B6\u6001\u3002"}),e("div",{className:"component_box",children:[B("div",{className:"compontent_box_content",children:e("div",{className:"content_component4_content",style:{width:700},children:[e("div",{className:"move_card move_card1",style:{width:u?"36%":"22%"},onMouseEnter:()=>{l(),t(!0)},children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card2",style:{width:d?"36%":"22%"},onMouseEnter:()=>{l(),i(!0)},children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card3",style:{width:a?"36%":"22%"},onMouseEnter:()=>{l(),c(!0)},children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]})]})}),B(n,{code:o})]})]})},C=()=>{const[o,u]=r.exports.useState(!0),[t,d]=r.exports.useState(!1),[i,a]=r.exports.useState(!1),c=()=>{u(!1),d(!1),a(!1)};return B(v,{children:e("div",{className:"content_component4_content",children:[e("div",{className:"move_card move_card1",style:{width:o?"36%":"22%"},onMouseEnter:()=>{c(),u(!0)},children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card2",style:{width:t?"36%":"22%"},onMouseEnter:()=>{c(),d(!0)},children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]}),e("div",{className:"move_card move_card3",style:{width:i?"36%":"22%"},onMouseEnter:()=>{c(),a(!0)},children:[B("div",{className:"move_card_title",children:"\u6807\u9898"}),B("div",{className:"move_card_text",children:"\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9\u6211\u662F\u5185\u5BB9"})]})]})})},b=()=>e("div",{children:[e("div",{className:"component_big_title",children:["\u5185\u5BB9 ",B("span",{children:"Content"})]}),B(_,{}),B(h,{}),B(p,{}),B(x,{})]});export{b as default};
