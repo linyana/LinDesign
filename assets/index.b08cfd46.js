@@ -1,4 +1,4 @@
-import{r as s,a as c,F as p,j as i}from"./index.0c64c6af.js";import{S as _}from"./index.b2e8ff94.js";const b=()=>{const n={element:()=>i(h,{}),HTMLCode:e=>`<div${e.trim()?` class="${e.replace(".","")}"`:""}>
+import{r as s,a as c,F as p,j as i}from"./index.cbc58aa6.js";import{S as _}from"./index.213b7d0c.js";const b=()=>{const n={element:()=>i(h,{}),HTMLCode:e=>`<div${e.trim()?` class="${e.replace(".","")}"`:""}>
   <div class="slide_box active">1</div>
   <div class="slide_box next">2</div>
   <div class="slide_box">3</div>
