@@ -1,4 +1,4 @@
-var _=Object.defineProperty;var b=(t,e,s)=>e in t?_(t,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):t[e]=s;var v=(t,e,s)=>(b(t,typeof e!="symbol"?e+"":e,s),s);import{r as o,a as x,F as u,j as i,R as S}from"./index.4f9526fa.js";import{S as p}from"./index.57df74b5.js";const B=()=>{const t={element:()=>i(E,{}),HTMLCode:d=>`<div${d.trim()?` class="${d.replace(".","")}"`:""}>
+var _=Object.defineProperty;var b=(t,e,s)=>e in t?_(t,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):t[e]=s;var v=(t,e,s)=>(b(t,typeof e!="symbol"?e+"":e,s),s);import{r as o,a as x,F as u,j as i,R as S}from"./index.4897d06e.js";import{S as p}from"./index.1c31f61e.js";const B=()=>{const t={element:()=>i(E,{}),HTMLCode:d=>`<div${d.trim()?` class="${d.replace(".","")}"`:""}>
   <div class="slide_box active">1</div>
   <div class="slide_box next">2</div>
   <div class="slide_box">3</div>
