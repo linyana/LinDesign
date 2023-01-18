@@ -1,4 +1,4 @@
-import{S as n}from"./index.663dc8fa.js";import{a as t,F as d,j as o}from"./index.f0fff356.js";/* empty css              */const a=()=>t(d,{children:[o("div",{className:"compontent_title",id:"layout-anchor1",children:"\u57FA\u672C\u5E03\u5C40"}),o("p",{className:"compontent_p",children:"\u5229\u7528margin\u6765\u8FDB\u884C\u5C45\u4E2D,\u5EFA\u8BAE\u81EA\u884C\u8BBE\u7F6E\u5BBD\u5EA6\u3002"}),t("div",{className:"component_box",children:[o("div",{className:"compontent_box_content",children:o("div",{className:"layout_component1_content1",children:"content"})}),o(n,{code:{element:()=>o("div",{className:"layout_component1_content1",children:"content"}),HTMLCode:e=>`<div${e.trim()?` class="${e.replace(".","")}"`:""}>
+import{S as n}from"./index.2d729022.js";import{a as t,F as d,j as o}from"./index.82db3d47.js";/* empty css              */const a=()=>t(d,{children:[o("div",{className:"compontent_title",id:"layout-anchor1",children:"\u57FA\u672C\u5E03\u5C40"}),o("p",{className:"compontent_p",children:"\u5229\u7528margin\u6765\u8FDB\u884C\u5C45\u4E2D,\u5EFA\u8BAE\u81EA\u884C\u8BBE\u7F6E\u5BBD\u5EA6\u3002"}),t("div",{className:"component_box",children:[o("div",{className:"compontent_box_content",children:o("div",{className:"layout_component1_content1",children:"content"})}),o(n,{code:{element:()=>o("div",{className:"layout_component1_content1",children:"content"}),HTMLCode:e=>`<div${e.trim()?` class="${e.replace(".","")}"`:""}>
   content
 </div>`,CSSCode:(e,i,u,r)=>`${e===""?"div":e} {
   margin: auto;
@@ -41,4 +41,4 @@ ${e===""?"div":e} .layout_component2_content3 {
   <div className="head">header</div>
   <div className="content">content</div>
   <div className="foot">footer</div>
-</div>`,ReactJSCode:()=>"\u6682\u65E0",TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>"\u6682\u65E0"}})]})]}),m=()=>t("div",{children:[t("div",{className:"component_big_title",children:["\u5185\u5BB9 ",o("span",{children:"Layout"})]}),o(a,{}),o(l,{})]});export{m as default};
+</div>`,ReactJSCode:()=>"\u6682\u65E0",TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>"\u6682\u65E0"}})]})]}),m=()=>t("div",{children:[t("div",{className:"component_big_title",children:["\u5E03\u5C40 ",o("span",{children:"Layout"})]}),o(a,{}),o(l,{})]});export{m as default};
