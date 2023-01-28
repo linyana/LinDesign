@@ -1,1 +1,0 @@
-import{c as a,a as c,s as e,d as t,j as n}from"./index.30abe735.js";const u="/LinUI-page/assets/show.4cec0e6a.svg",d=o=>{const s=a();return c("div",{className:"compontent_box_menu",onClick:()=>{s(e(o.code)),s(t())},children:["\u67E5\u770B\u4EE3\u7801",n("img",{src:u,alt:"\u67E5\u770B\u4EE3\u7801",className:"icon"})]})};export{d as S};
