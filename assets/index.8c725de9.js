@@ -1,4 +1,4 @@
-import{r as n,a as o,F as i,j as s}from"./index.489887e9.js";import{S as m}from"./index.fb56c497.js";import{w as t}from"./wrong.13f6fc9b.js";/* empty css              */const d="/LinUI-page/assets/tip-right.07c5321f.png";const C=()=>{const c={element:()=>o("div",{className:"message_component1_content",children:[o("div",{className:u,children:[s("img",{src:d,alt:""}),"\u767B\u5F55\u6210\u529F"]}),s("button",{onClick:()=>{r()},children:"\u6210\u529F"})]}),HTMLCode:e=>`<div${e.trim()?` class="${e.replace(".","")}"`:""}>
+import{r as n,a as o,F as i,j as s}from"./index.54da7ee4.js";import{S as m}from"./index.bc647ad7.js";import{w as t}from"./wrong.13f6fc9b.js";/* empty css              */const d="/LinUI-page/assets/tip-right.07c5321f.png";const C=()=>{const c={element:()=>o("div",{className:"message_component1_content",children:[o("div",{className:u,children:[s("img",{src:d,alt:""}),"\u767B\u5F55\u6210\u529F"]}),s("button",{onClick:()=>{r()},children:"\u6210\u529F"})]}),HTMLCode:e=>`<div${e.trim()?` class="${e.replace(".","")}"`:""}>
   <div class="popup_message success_message">
     <img src="" alt="" />
     \u767B\u5F55\u6210\u529F
@@ -27,6 +27,7 @@ ${e===""?"div":e} .popup_message img {
 	width: 16px;
 	height: 16px;
 	margin-right: 10px;
+	transform: translateY(3px);
 }
 
 ${e===""?"div":e} .success_message {
@@ -213,6 +214,7 @@ ${e===""?"div":e} .popup_message img {
 	width: 16px;
 	height: 16px;
 	margin-right: 10px;
+	transform: translateY(3px);
 }
 
 ${e===""?"div":e} .notice_message {
@@ -405,6 +407,7 @@ ${e===""?"div":e} .error_message {
 	background-color: rgba(186, 233, 180, 0.6);
 	box-shadow: 0 0 10px rgba(132, 207, 122, 0.3);
 	color: rgb(113, 182, 127);
+	transform: translateY(3px);
 }
 
 ${e===""?"div":e} .show_message {
@@ -556,4 +559,4 @@ const showErrorMessage = (): void => {
     }, 1200);
   }
 };
-    `},[u,a]=n.exports.useState("popup_message error_message"),r=()=>{document.querySelector(".show_message")===null&&document.querySelector(".hidden_message")===null&&(a("popup_message error_message show_message"),setTimeout(()=>{a("popup_message error_message hidden_message"),setTimeout(()=>{a("popup_message error_message")},280)},1200))};return o(i,{children:[s("div",{className:"compontent_title",id:"message-anchor3",children:"\u9519\u8BEF\u63D0\u793A"}),o("p",{className:"function_p",children:["\u80CC\u666F\u989C\u8272\uFF1A",s("img",{src:t,alt:""})]}),o("p",{className:"function_p",children:["\u5B57\u4F53\u989C\u8272\uFF1A",s("img",{src:t,alt:""})]}),o("p",{className:"function_p",children:["\u60AC\u6D6E\u989C\u8272\uFF1A",s("img",{src:t,alt:""})]}),o("div",{className:"component_box",children:[s("div",{className:"compontent_box_content",children:o("div",{className:"message_component3_content",children:[o("div",{className:u,children:[s("img",{src:h,alt:""}),"\u5BC6\u7801\u8F93\u5165\u9519\u8BEF"]}),s("button",{onClick:()=>{r()},children:"\u9519\u8BEF"})]})}),s(m,{code:c})]})]})},F=()=>o("div",{children:[o("div",{className:"component_big_title",children:["\u6D88\u606F\u63D0\u793A ",s("span",{children:"Message"})]}),s(C,{}),s(M,{}),s(v,{})]});export{F as default};
+    `},[u,a]=n.exports.useState("popup_message error_message"),r=()=>{document.querySelector(".show_message")===null&&document.querySelector(".hidden_message")===null&&(a("popup_message error_message show_message"),setTimeout(()=>{a("popup_message error_message hidden_message"),setTimeout(()=>{a("popup_message error_message")},280)},1200))};return o(i,{children:[s("div",{className:"compontent_title",id:"message-anchor3",children:"\u9519\u8BEF\u63D0\u793A"}),o("p",{className:"function_p",children:["\u80CC\u666F\u989C\u8272\uFF1A",s("img",{src:t,alt:""})]}),o("p",{className:"function_p",children:["\u5B57\u4F53\u989C\u8272\uFF1A",s("img",{src:t,alt:""})]}),o("p",{className:"function_p",children:["\u60AC\u6D6E\u989C\u8272\uFF1A",s("img",{src:t,alt:""})]}),o("div",{className:"component_box",children:[s("div",{className:"compontent_box_content",children:o("div",{className:"message_component3_content",children:[o("div",{className:u,children:[s("img",{src:h,alt:""}),"\u5BC6\u7801\u8F93\u5165\u9519\u8BEF"]}),s("button",{onClick:()=>{r()},children:"\u9519\u8BEF"})]})}),s(m,{code:c})]})]})},x=()=>o("div",{children:[o("div",{className:"component_big_title",children:["\u6D88\u606F\u63D0\u793A ",s("span",{children:"Message"})]}),s(C,{}),s(M,{}),s(v,{})]});export{x as default};
