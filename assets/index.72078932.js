@@ -1,4 +1,4 @@
-import{r as n,a as o,F as i,j as s}from"./index.91fbbc27.js";import{S as m}from"./index.25dc868f.js";import{w as t}from"./wrong.13f6fc9b.js";/* empty css              */const d="/LinDesign-page/assets/tip-right.07c5321f.png";const C=()=>{const c={element:()=>o("div",{className:"message_component1_content",children:[o("div",{className:u,children:[s("img",{src:d,alt:""}),"\u767B\u5F55\u6210\u529F"]}),s("button",{onClick:()=>{r()},children:"\u6210\u529F"})]}),HTMLCode:e=>`<div${e.trim()?` class="${e.replace(".","")}"`:""}>
+import{r as n,a as o,F as i,j as s}from"./index.f65fc578.js";import{S as m}from"./index.cf87105d.js";import{w as t}from"./wrong.13f6fc9b.js";/* empty css              */const d="/LinDesign-page/assets/tip-right.07c5321f.png";const C=()=>{const c={element:()=>o("div",{className:"message_component1_content",children:[o("div",{className:u,children:[s("img",{src:d,alt:""}),"\u767B\u5F55\u6210\u529F"]}),s("button",{onClick:()=>{r()},children:"\u6210\u529F"})]}),HTMLCode:e=>`<div${e.trim()?` class="${e.replace(".","")}"`:""}>
   <div class="popup_message success_message">
     <img src="" alt="" />
     \u767B\u5F55\u6210\u529F
