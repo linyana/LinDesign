@@ -1,4 +1,4 @@
-var b=Object.defineProperty;var S=(t,e,s)=>e in t?b(t,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):t[e]=s;var v=(t,e,s)=>(S(t,typeof e!="symbol"?e+"":e,s),s);import{r as x,a as n,F as m,j as i,R as C}from"./index.ab8adb49.js";import{S as g}from"./index.d8f9e51b.js";import{w as a}from"./wrong.13f6fc9b.js";/* empty css              */const B=()=>{const t={element:()=>i(E,{}),HTMLCode:d=>`<div${d.trim()?` class="${d.replace(".","")}"`:""}>
+var b=Object.defineProperty;var S=(t,e,s)=>e in t?b(t,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):t[e]=s;var v=(t,e,s)=>(S(t,typeof e!="symbol"?e+"":e,s),s);import{r as x,a as n,F as m,j as i,R as C}from"./index.333ea0ba.js";import{S as g}from"./index.078577a1.js";import{w as a}from"./wrong.13f6fc9b.js";/* empty css              */const B=()=>{const t={element:()=>i(E,{}),HTMLCode:d=>`<div${d.trim()?` class="${d.replace(".","")}"`:""}>
   <div class="slide_box active">1</div>
   <div class="slide_box next">2</div>
   <div class="slide_box">3</div>
