@@ -1,4 +1,4 @@
-import{r as o,a as c,F as r,j as t}from"./index.9f2fb865.js";import{S as a}from"./index.83403719.js";import{w as l}from"./wrong.13f6fc9b.js";import{r as n}from"./right.acc19ff3.js";/* empty css              */const x=()=>{const s={element:()=>t(u,{}),HTMLCode:i=>`<div${i.trim()?` class="${i.replace(".","")}"`:""}>
+import{r as o,a as c,F as r,j as t}from"./index.4876e434.js";import{S as a}from"./index.32bdbc54.js";import{w as l}from"./wrong.13f6fc9b.js";import{r as n}from"./right.acc19ff3.js";/* empty css              */const x=()=>{const s={element:()=>t(u,{}),HTMLCode:i=>`<div${i.trim()?` class="${i.replace(".","")}"`:""}>
   <div class="switch_box">
     <div class="switch_circle"></div>
   </div>

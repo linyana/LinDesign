@@ -1,4 +1,4 @@
-import{r as c,a as o,F as m,j as s}from"./index.9f2fb865.js";import{S as g}from"./index.83403719.js";import{w as r}from"./wrong.13f6fc9b.js";/* empty css              */const d="/LinDesign-page/assets/tip-right.07c5321f.png";const C=()=>{const u={element:()=>s(M,{}),HTMLCode:e=>`<div${e.trim()?` class="${e.replace(".","")}"`:""}>
+import{r as c,a as o,F as m,j as s}from"./index.4876e434.js";import{S as g}from"./index.32bdbc54.js";import{w as r}from"./wrong.13f6fc9b.js";/* empty css              */const d="/LinDesign-page/assets/tip-right.07c5321f.png";const C=()=>{const u={element:()=>s(M,{}),HTMLCode:e=>`<div${e.trim()?` class="${e.replace(".","")}"`:""}>
   <div class="popup_message success_message">
     <img src="" alt="" />
     \u767B\u5F55\u6210\u529F
