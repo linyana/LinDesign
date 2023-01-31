@@ -1,0 +1,1 @@
+import{c as a,a as c,s as n,d as t,j as e}from"./index.ab8adb49.js";const i="/LinDesign-page/assets/show.4cec0e6a.svg",d=o=>{const s=a();return c("div",{className:"compontent_box_menu",onClick:()=>{s(n(o.code)),s(t())},children:[e("span",{children:"\u67E5\u770B\u4EE3\u7801"}),e("img",{src:i,alt:"\u67E5\u770B\u4EE3\u7801",className:"icon"})]})};export{d as S};
