@@ -1,4 +1,4 @@
-var b=Object.defineProperty;var S=(t,e,s)=>e in t?b(t,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):t[e]=s;var v=(t,e,s)=>(S(t,typeof e!="symbol"?e+"":e,s),s);import{r as x,a as n,F as m,j as i,R as C}from"./index.556a750c.js";import{S as g}from"./index.ea4ee31e.js";import{w as a}from"./wrong.13f6fc9b.js";/* empty css              */const B=()=>{const t={element:()=>i(E,{}),HTMLCode:d=>`<div${d.trim()?` class="${d.replace(".","")}"`:""}>
+var b=Object.defineProperty;var S=(t,e,s)=>e in t?b(t,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):t[e]=s;var v=(t,e,s)=>(S(t,typeof e!="symbol"?e+"":e,s),s);import{r as x,a as n,F as m,j as i,R as C}from"./index.538804be.js";import{S as g}from"./index.fc3fe7d4.js";import{w as a}from"./wrong.13f6fc9b.js";/* empty css              */const B=()=>{const t={element:()=>i(E,{}),HTMLCode:d=>`<div${d.trim()?` class="${d.replace(".","")}"`:""}>
   <div class="slide_box active">1</div>
   <div class="slide_box next">2</div>
   <div class="slide_box">3</div>
@@ -221,6 +221,19 @@ useEffect(() => {
   <div class="slide_box">3</div>
   <div class="slide_box">4</div>
   <div class="slide_box pre">5</div>
+  <div class="slide_buttons">
+    <div class="slice_button"></div>
+    <div class="slice_button"></div>
+    <div class="slice_button"></div>
+    <div class="slice_button"></div>
+    <div class="slice_button"></div>
+  </div>
+  <div class="slide_left">
+    <img src="" alt="" />
+  </div>
+  <div class="slide_right">
+    <img src="" alt="" />
+  </div>
 </div>`,CSSCode:(e,s,r,o)=>`
 ${e===""?"div":e} {
   position: relative;
