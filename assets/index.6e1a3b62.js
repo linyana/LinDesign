@@ -1,4 +1,4 @@
-import{S as n}from"./index.10503a76.js";import{r as u}from"./right.acc19ff3.js";import{a as t,F as c,j as i}from"./index.635b085f.js";/* empty css              */const a=()=>t(c,{children:[i("div",{className:"compontent_title",id:"title-anchor2",children:"\u957F\u4E0B\u5212\u7EBF"}),i("p",{className:"compontent_p",children:"\u5728\u6807\u9898\u4E0B\u65B9\u589E\u52A0\u4E00\u6761\u4E0B\u5212\u7EBF\u589E\u5F3A\u89C6\u89C9\u6548\u679C"}),t("p",{className:"function_p",children:["\u80CC\u666F\u989C\u8272\uFF1A",i("img",{src:u,alt:""})]}),t("p",{className:"function_p",children:["\u5B57\u4F53\u989C\u8272\uFF1A",i("img",{src:u,alt:""})]}),t("p",{className:"function_p",children:["\u60AC\u6D6E\u989C\u8272\uFF1A",i("img",{src:u,alt:""})]}),t("div",{className:"component_box",children:[i("div",{className:"compontent_box_content",children:i("div",{className:"title_component1_content",style:{borderBottom:"2px solid rgb(61, 60, 60)",color:"#495057"},children:"\u6807\u9898"})}),i(n,{code:{element:()=>i("div",{className:"title_component1_content",children:"\u6807\u9898"}),HTMLCode:e=>`<div${e.trim()?` class="${e.replace(".","")}"`:""}>
+import{S as n}from"./index.b4741ec1.js";import{r as u}from"./right.acc19ff3.js";import{a as t,F as c,j as i}from"./index.c2927b99.js";/* empty css              */const a=()=>t(c,{children:[i("div",{className:"compontent_title",id:"title-anchor2",children:"\u957F\u4E0B\u5212\u7EBF"}),i("p",{className:"compontent_p",children:"\u5728\u6807\u9898\u4E0B\u65B9\u589E\u52A0\u4E00\u6761\u4E0B\u5212\u7EBF\u589E\u5F3A\u89C6\u89C9\u6548\u679C"}),t("p",{className:"function_p",children:["\u80CC\u666F\u989C\u8272\uFF1A",i("img",{src:u,alt:""})]}),t("p",{className:"function_p",children:["\u5B57\u4F53\u989C\u8272\uFF1A",i("img",{src:u,alt:""})]}),t("p",{className:"function_p",children:["\u60AC\u6D6E\u989C\u8272\uFF1A",i("img",{src:u,alt:""})]}),t("div",{className:"component_box",children:[i("div",{className:"compontent_box_content",children:i("div",{className:"title_component1_content",style:{borderBottom:"2px solid rgb(61, 60, 60)",color:"#495057"},children:"\u6807\u9898"})}),i(n,{code:{element:()=>i("div",{className:"title_component1_content",children:"\u6807\u9898"}),HTMLCode:e=>`<div${e.trim()?` class="${e.replace(".","")}"`:""}>
   \u6807\u9898
 </div>`,CSSCode:(e,o,l,d)=>`${e===""?"div":e} {
   font-size: 26px;
@@ -117,9 +117,10 @@ ${e===""?"div":e} .title:hover .small_title {
   </div>
 </div>`,ReactJSCode:()=>"\u6682\u65E0",TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>"\u6682\u65E0"}})]})]});const p=()=>t(c,{children:[i("div",{className:"compontent_title",id:"title-anchor4",children:"\u8FB9\u6846\u73AF\u7ED5"}),t("p",{className:"function_p",children:["\u80CC\u666F\u989C\u8272\uFF1A",i("img",{src:u,alt:""})]}),t("p",{className:"function_p",children:["\u5B57\u4F53\u989C\u8272\uFF1A",i("img",{src:u,alt:""})]}),t("p",{className:"function_p",children:["\u60AC\u6D6E\u989C\u8272\uFF1A",i("img",{src:u,alt:""})]}),t("div",{className:"component_box",children:[i("div",{className:"compontent_box_content",style:{backgroundColor:"white"},children:i("div",{className:"title_component4_content title_component4_content_color",children:t("div",{className:"title_box",children:[i("div",{className:"title_left_box"}),"\u5173\u4E8E\u6211\u4EEC",i("div",{className:"title_right_box"})]})})}),i(n,{code:{element:()=>i("div",{className:"title_component4_content",children:t("div",{className:"title_box",children:[i("div",{className:"title_left_box"}),"\u5173\u4E8E\u6211\u4EEC",i("div",{className:"title_right_box"})]})}),HTMLCode:e=>`<div${e.trim()?` class="${e.replace(".","")}"`:""}>
   <div class="${e.replace(".","")}_box">
-  <div class="${e.replace(".","")}_left_box"></div>
-  \u5173\u4E8E\u6211\u4EEC
-  <div class="${e.replace(".","")}_right_box"></div>
+    <div class="${e.replace(".","")}_left_box"></div>
+    \u5173\u4E8E\u6211\u4EEC
+    <div class="${e.replace(".","")}_right_box"></div>
+  </div>
 </div>`,CSSCode:(e,o,l,d)=>`${e===""?"div":e} {
   position: relative;
   text-align: center;
@@ -160,13 +161,15 @@ ${e===""?"div":e} .${e.replace(".","")}_box:hover {
   color: ${d};
 }
 `,JSCode:()=>"\u6682\u65E0",VueHTMLCode:e=>`<div${e.trim()?` class="${e.replace(".","")}"`:""}>
-    <div class="${e.replace(".","")}_box">
+  <div class="${e.replace(".","")}_box">
     <div class="${e.replace(".","")}_left_box"></div>
     \u5173\u4E8E\u6211\u4EEC
     <div class="${e.replace(".","")}_right_box"></div>
+  </div>
 </div>`,VueJSCode:()=>"\u6682\u65E0",ReactHTMLCode:e=>`<div${e.trim()?` className="${e.replace(".","")}"`:""}>
-    <div className="${e.replace(".","")}_box">
+  <div className="${e.replace(".","")}_box">
     <div className="${e.replace(".","")}_left_box"></div>
     \u5173\u4E8E\u6211\u4EEC
     <div className="${e.replace(".","")}_right_box"></div>
+  </div>
 </div>`,ReactJSCode:()=>"\u6682\u65E0",TSCode:()=>"\u6682\u65E0",VueTSCode:()=>"\u6682\u65E0",ReactTSCode:()=>"\u6682\u65E0"}})]})]}),E=()=>t("div",{children:[t("div",{className:"component_big_title",children:["\u6807\u9898 ",i("span",{children:"Title"})]}),i(a,{}),i(s,{}),i(v,{}),i(p,{})]});export{E as default};

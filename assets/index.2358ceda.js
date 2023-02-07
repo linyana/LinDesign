@@ -1,8 +1,8 @@
-import{r as o,a as c,F as r,j as t}from"./index.635b085f.js";import{S as a}from"./index.10503a76.js";import{w as l}from"./wrong.13f6fc9b.js";import{r as n}from"./right.acc19ff3.js";/* empty css              */const x=()=>{const s={element:()=>t(u,{}),HTMLCode:i=>`<div${i.trim()?` class="${i.replace(".","")}"`:""}>
+import{r as o,a as c,F as d,j as t}from"./index.c2927b99.js";import{S as a}from"./index.b4741ec1.js";import{w as l}from"./wrong.13f6fc9b.js";import{r as n}from"./right.acc19ff3.js";/* empty css              */const x=()=>{const s={element:()=>t(u,{}),HTMLCode:i=>`<div${i.trim()?` class="${i.replace(".","")}"`:""}>
   <div class="switch_box">
     <div class="switch_circle"></div>
   </div>
-</div>`,CSSCode:(i,w,_,d)=>`
+</div>`,CSSCode:(i,w,_,r)=>`
 ${i===""?"div":i} .switch_box {
   cursor: pointer;
   position: relative;
@@ -78,13 +78,13 @@ const isSwitch = ref<boolean>(false);
 
 const changeSwitch = (): void => {
 	isSwitch.value = !isSwitch.value;
-};`,ReactTSCode:()=>"const [isSwitch, setIsSwitch] = useState<boolean>(false);"},[e,h]=o.exports.useState(!1);return c(r,{children:[t("div",{className:"compontent_title",id:"switch-anchor1",children:"\u5F00\u5173"}),c("p",{className:"function_p",children:["\u80CC\u666F\u989C\u8272\uFF1A",t("img",{src:n,alt:""})]}),c("p",{className:"function_p",children:["\u5B57\u4F53\u989C\u8272\uFF1A",t("img",{src:l,alt:""})]}),c("p",{className:"function_p",children:["\u60AC\u6D6E\u989C\u8272\uFF1A",t("img",{src:l,alt:""})]}),c("div",{className:"component_box",children:[t("div",{className:"compontent_box_content",children:t("div",{className:"switch_component1_content switch_component1_content_hover",children:t("div",{className:e?"is_switch_box switch_box":"switch_box",onClick:()=>{h(!e)},children:t("div",{className:"switch_circle"})})})}),t(a,{code:s})]})]})},u=()=>{const[s,e]=o.exports.useState(!1);return t("div",{className:"switch_component1_content",children:t("div",{className:s?"is_switch_box switch_box":"switch_box",onClick:()=>{e(!s)},children:t("div",{className:"switch_circle"})})})};const v=()=>{const s={element:()=>t(S,{}),HTMLCode:i=>`<div${i.trim()?` class="${i.replace(".","")}"`:""}>
+};`,ReactTSCode:()=>"const [isSwitch, setIsSwitch] = useState<boolean>(false);"},[e,h]=o.exports.useState(!1);return c(d,{children:[t("div",{className:"compontent_title",id:"switch-anchor1",children:"\u5F00\u5173"}),c("p",{className:"function_p",children:["\u80CC\u666F\u989C\u8272\uFF1A",t("img",{src:n,alt:""})]}),c("p",{className:"function_p",children:["\u5B57\u4F53\u989C\u8272\uFF1A",t("img",{src:l,alt:""})]}),c("p",{className:"function_p",children:["\u60AC\u6D6E\u989C\u8272\uFF1A",t("img",{src:l,alt:""})]}),c("div",{className:"component_box",children:[t("div",{className:"compontent_box_content",children:t("div",{className:"switch_component1_content switch_component1_content_hover",children:t("div",{className:e?"is_switch_box switch_box":"switch_box",onClick:()=>{h(!e)},children:t("div",{className:"switch_circle"})})})}),t(a,{code:s})]})]})},u=()=>{const[s,e]=o.exports.useState(!1);return t("div",{className:"switch_component1_content",children:t("div",{className:s?"is_switch_box switch_box":"switch_box",onClick:()=>{e(!s)},children:t("div",{className:"switch_circle"})})})};const v=()=>{const s={element:()=>t(S,{}),HTMLCode:i=>`<div${i.trim()?` class="${i.replace(".","")}"`:""}>
   <div class="switch_text is_switch_text">\u7537</div>
   <div class="switch_box">
     <div class="switch_circle"></div>
   </div>
   <div class="switch_text">\u5973</div>
-</div>`,CSSCode:(i,w,_,d)=>`
+</div>`,CSSCode:(i,w,_,r)=>`
 ${i===""?"div":i}  {
   display: flex;
 }
@@ -125,7 +125,7 @@ ${i===""?"div":i} .switch_text {
 }
 
 ${i===""?"div":i}  .is_switch_text {
-  color: ${d}
+  color: ${r}
 }
         `,JSCode:()=>`	const switchBox = document.querySelector(".switch_box");
 const switchText = document.querySelectorAll(".switch_text");
@@ -191,4 +191,4 @@ const isSwitch = ref<boolean>(false);
 
 const changeSwitch = (): void => {
   isSwitch.value = !isSwitch.value;
-};`,ReactTSCode:()=>"const [isSwitch, setIsSwitch] = useState<boolean>(false);"},[e,h]=o.exports.useState(!1);return c(r,{children:[t("div",{className:"compontent_title",id:"switch-anchor2",children:"\u6587\u5B57\u5F00\u5173"}),c("p",{className:"function_p",children:["\u80CC\u666F\u989C\u8272\uFF1A",t("img",{src:n,alt:""})]}),c("p",{className:"function_p",children:["\u5B57\u4F53\u989C\u8272\uFF1A",t("img",{src:l,alt:""})]}),c("p",{className:"function_p",children:["\u60AC\u6D6E\u989C\u8272\uFF1A",t("img",{src:n,alt:""})]}),c("div",{className:"component_box",children:[t("div",{className:"compontent_box_content",children:c("div",{className:"switch_component2_content",children:[t("div",{className:e?"switch_text":"is_switch_text switch_text",children:"\u7537"}),t("div",{className:e?"is_switch_box switch_box":"switch_box",onClick:()=>{h(!e)},children:t("div",{className:"switch_circle"})}),t("div",{className:e?"is_switch_text switch_text":"switch_text",children:"\u5973"})]})}),t(a,{code:s})]})]})},S=()=>{const[s,e]=o.exports.useState(!1);return c("div",{className:"switch_component2_content",children:[t("div",{className:s?"switch_text":"is_switch_text switch_text",children:"\u7537"}),t("div",{className:s?"is_switch_box switch_box":"switch_box",onClick:()=>{e(!s)},children:t("div",{className:"switch_circle"})}),t("div",{className:s?"is_switch_text switch_text":"switch_text",children:"\u5973"})]})},g=()=>c("div",{children:[c("div",{className:"component_big_title",children:["\u5F00\u5173 ",t("span",{children:"Switch"})]}),t(x,{}),t(v,{})]});export{g as default};
+};`,ReactTSCode:()=>"const [isSwitch, setIsSwitch] = useState<boolean>(false);"},[e,h]=o.exports.useState(!1);return c(d,{children:[t("div",{className:"compontent_title",id:"switch-anchor2",children:"\u6587\u5B57\u5F00\u5173"}),c("p",{className:"function_p",children:["\u80CC\u666F\u989C\u8272\uFF1A",t("img",{src:n,alt:""})]}),c("p",{className:"function_p",children:["\u5B57\u4F53\u989C\u8272\uFF1A",t("img",{src:l,alt:""})]}),c("p",{className:"function_p",children:["\u60AC\u6D6E\u989C\u8272\uFF1A",t("img",{src:n,alt:""})]}),c("div",{className:"component_box",children:[t("div",{className:"compontent_box_content",children:c("div",{className:"switch_component2_content switch_component2_content_color",children:[t("div",{className:e?"switch_text":"is_switch_text switch_text",children:"\u7537"}),t("div",{className:e?"is_switch_box switch_box":"switch_box",onClick:()=>{h(!e)},children:t("div",{className:"switch_circle"})}),t("div",{className:e?"is_switch_text switch_text":"switch_text",children:"\u5973"})]})}),t(a,{code:s})]})]})},S=()=>{const[s,e]=o.exports.useState(!1);return c("div",{className:"switch_component2_content",children:[t("div",{className:s?"switch_text":"is_switch_text switch_text",children:"\u7537"}),t("div",{className:s?"is_switch_box switch_box":"switch_box",onClick:()=>{e(!s)},children:t("div",{className:"switch_circle"})}),t("div",{className:s?"is_switch_text switch_text":"switch_text",children:"\u5973"})]})},g=()=>c("div",{children:[c("div",{className:"component_big_title",children:["\u5F00\u5173 ",t("span",{children:"Switch"})]}),t(x,{}),t(v,{})]});export{g as default};
